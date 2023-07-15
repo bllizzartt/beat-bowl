@@ -30,21 +30,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/bllizzartt/c-jam/blob/main/Images/logo.png" alt="Logo" width="80" height="80">
 
-<h3 align="center">Object detection</h3>
+<h3 align="center">C Jam</h3>
 
   <p align="center">
-    This project is a combination of projects that cover webcam, mp4, and img object detection training and tracking
+    This project was a group collaboritive project involving the use of Unity, Arduino IDE, 3D printing, and Servo motors to create an interactive robot.
     <br />
-    <a href="https://github.com/bllizzartt/Object-Detection-Yolo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bllizzartt/c-jam"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam.mp4">View Demo</a>
     ·
-    <a href="https://github.com/bllizzartt/Objection-Detection-Yolo/issues">Report Bug</a>
+    <a href="https://github.com/bllizzartt/c-jam/issues">Report Bug</a>
     ·
-    <a href="https://github.com/bllizzartt/Objection-Detection-Yolo/issues">Request Feature</a> -->
+    <a href="https://github.com/bllizzartt/c-jam/issues">Request Feature</a> -->
   </p>
 </div>
 
@@ -81,9 +81,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Main Picture](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/personpic.png)
+![Main Picture]()
 
-<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `bllizzartt`, `Objection-Detection-Yolo`, `haynes2va`, `https://www.linkedin.com/in/chase-haynes/`, `gmail`, `chasecthaynes`, `Object Detection`, `project_description` -->
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `bllizzartt`, `c-jam`, `haynes2va`, `https://www.linkedin.com/in/chase-haynes/`, `gmail`, `chasecthaynes`, `C Jam`, `project_description` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,8 +91,8 @@
 
 ### Built With
 
-* Python 
-* Yolo
+* Unity 
+* C++
 
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -112,15 +112,14 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. Open PyCharm
-2. Start a new project 
-3. Create it in a venv (virtual environment) with Python 3.8
+Here is how we created our project 
 
 ### Prerequisites
 
-* Download Python 3.8 at https://www.python.org/downloads/release/python-380/
-* Download Pycharm at https://www.jetbrains.com/pycharm/*
-* In the Project Interpreter Tab verify you have cvzone downloaded
+* Unity installed
+* Arduino IDE installed 
+* 4 servo motors
+* 4 3D printed servo sleeves
 
 ### Installation
 
@@ -129,7 +128,7 @@
 <!-- 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/bllizzartt/Objection-Detection-Yolo.git
+   git clone https://github.com/bllizzartt/c-jam.git
    ```
 3. Install NPM packages
    ```sh
@@ -146,19 +145,13 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project can be used to track objects real time via a webcam or img/mp4
+This project is for users to interact with our robot C Jam by interacting with it through Unity
 <br />
-I have preuploaded some images and videos, but upload your own and experiment with your own data
-<br />
+Here is C Jam, Enjoy!
 
-Here are some snippets of what you can do, enjoy!
-
-![Car Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/car-counter.png)
-![People Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/people-counter.png)
-[![Webcam](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/personpic.png)](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam-real.mp4)
-
-
-
+![Robot](insert url here)
+![Hardware](insert url here)
+[![Drone](insert url.jpg here)](insert url.mp4 here)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -167,11 +160,7 @@ Here are some snippets of what you can do, enjoy!
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Basic webcam/img/Video object recogntion
-- [ ] Object Detection with Yolo from https://universe.roboflow.com/
-- [ ] Chinese language integration for class tracking
-  - Example: Person would be displayed as 人
-- [ ] More to come, tell me what else you would like to see!
+- [x] Interactive movements with C Jam 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +183,6 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- LICENSE -->
 ## License
 
@@ -209,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Chase Haynes - [@haynes2va](https://twitter.com/haynes2va) - chasecthaynes@gmail.com
 
-Project Link: [https://github.com/bllizzartt/Objection-Detection-Yolo](https://github.com/bllizzartt/Objection-Detection-Yolo)
+Project Link: [https://github.com/bllizzartt/c-jam](https://github.com/bllizzartt/c-jam)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,30 +206,24 @@ Project Link: [https://github.com/bllizzartt/Objection-Detection-Yolo](https://g
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Murtaza's Workshop](https://www.youtube.com/@murtazasworkshop)
-<!-- * []()
-* []() -->
+* [June Lee]()
+* [Mariana Holtz]()
+* [Aisha]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Notes
-
-* Updated 7/14/23
-I am still working on this project, more updates coming soon!
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
-[contributors-url]: https://github.com/bllizzartt/Objection-Detection-Yolo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
-[forks-url]: https://github.com/bllizzartt/Objection-Detection-Yolo/network/members
-[stars-shield]: https://img.shields.io/github/stars/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
-[stars-url]: https://github.com/bllizzartt/Objection-Detection-Yolo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
-[issues-url]: https://github.com/bllizzartt/Objection-Detection-Yolo/issues
-[license-shield]: https://img.shields.io/github/license/bllizzartt/Objection-Detection-Yolo.svg?style=for-the-badge
-[license-url]: https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/bllizzartt/c-jam.svg?style=for-the-badge
+[contributors-url]: https://github.com/bllizzartt/c-jam/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/bllizzartt/c-jam.svg?style=for-the-badge
+[forks-url]: https://github.com/bllizzartt/c-jam/network/members
+[stars-shield]: https://img.shields.io/github/stars/bllizzartt/c-jam.svg?style=for-the-badge
+[stars-url]: https://github.com/bllizzartt/c-jam/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bllizzartt/c-jam.svg?style=for-the-badge
+[issues-url]: https://github.com/bllizzartt/c-jam/issues
+[license-shield]: https://img.shields.io/github/license/bllizzartt/c-jam.svg?style=for-the-badge
+[license-url]: https://github.com/bllizzartt/c-jam/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chase-haynes/
 [product-screenshot]: images/screenshot.png
